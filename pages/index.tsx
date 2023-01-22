@@ -29,44 +29,44 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href=""
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={montserrat.className}>
-              Docs <span>-&gt;</span>
+              Drohne
             </h2>
             <p className={montserrat.className}>
-              Find in-depth information about Next.js features and&nbsp;API.
+              Hier erfährst du, womit wir fliegen.
             </p>
           </a>
 
           <a
-            href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href=""
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={montserrat.className}>
-              Learn <span>-&gt;</span>
+              Footage
             </h2>
             <p className={montserrat.className}>
-              Learn about Next.js in an interactive course with&nbsp;quizzes!
+              Schau dir an, was wir bisher gemacht haben.
             </p>
           </a>
 
           <a
-            href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href=""
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={montserrat.className}>
-              Templates <span>-&gt;</span>
+              Kontakt
             </h2>
             <p className={montserrat.className}>
-              Discover and deploy boilerplate example Next.js&nbsp;projects.
+              Hier lang für Fragen oder Terminvereinbarungen.
             </p>
           </a>
 
@@ -77,11 +77,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className={montserrat.className}>
-              Deploy <span>-&gt;</span>
+              Über uns
             </h2>
             <p className={montserrat.className}>
-              Instantly deploy your Next.js site to a shareable URL
-              with&nbsp;Vercel.
+              Falls dich interessiert, wer wir sind.
             </p>
           </a>
         </div>
